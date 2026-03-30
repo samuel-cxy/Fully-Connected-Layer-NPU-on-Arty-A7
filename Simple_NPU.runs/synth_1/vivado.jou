@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Mar 15 17:45:39 2026
+# Process ID         : 25048
+# Current directory  : C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.runs/synth_1
+# Command line       : vivado.exe -log npu_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source npu_top.tcl
+# Log file           : C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.runs/synth_1/npu_top.vds
+# Journal file       : C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-6D7E7RAB
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 9 285H
+# CPU Frequency      : 3686 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 16
+# Host memory        : 33820 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 46705 MB
+# Available Virtual  : 19239 MB
+#-----------------------------------------------------------
+source npu_top.tcl -notrace

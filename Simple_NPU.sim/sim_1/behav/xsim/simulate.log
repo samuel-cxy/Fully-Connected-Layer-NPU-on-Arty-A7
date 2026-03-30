@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Starting tb_fc_layer...
+done asserted
+y0 = 832
+y1 = 96
+y2 = 208
+y3 = 0
+PASS: outputs matched expected values
+All tb_fc_layer tests passed.
+$finish called at time : 265 ns : File "C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sim_1/new/tb_fc_layer.sv" Line 125
+INFO: xsimkernel Simulation Memory Usage: 20252 KB (Peak: 20252 KB), Simulation CPU Usage: 36874 ms

@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sim_1/new/tb_fc_layer.sv,1773603206,systemVerilog,,,,tb_fc_layer,,uvm,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sim_1/new/tb_mac_unit.sv,1772841889,systemVerilog,,,,tb_mac_unit,,uvm,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sources_1/new/fc_layer.sv,1773602708,systemVerilog,,C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sources_1/new/mac_unit.sv,,fc_layer,,uvm,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sources_1/new/mac_unit.sv,1772842268,systemVerilog,,C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sources_1/new/relu.sv,,mac_unit,,uvm,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sources_1/new/relu.sv,1772841932,systemVerilog,,C:/Users/samue/Documents/Arty-7-100T/Simple_NPU/Simple_NPU.srcs/sim_1/new/tb_fc_layer.sv,,relu,,uvm,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
